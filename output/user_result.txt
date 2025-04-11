@@ -1,7 +1,5 @@
 
 央视频道,#genre#
-CCTV-1,http://vip.396621173.xyz:35455/gaoma/cctv1.m3u8$订阅源
-CCTV-1,http://home.kuaidi521.com:35455/gaoma/cctv1.m3u8$订阅源
 CCTV-1,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y$订阅源-IPv6
 CCTV-1,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226733/index.m3u8$订阅源-IPv6
@@ -10,7 +8,8 @@ CCTV-1,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV-1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-1,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000001/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000017$订阅源-IPv6
 CCTV-1,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$订阅源-IPv6
-CCTV-2,http://home.kuaidi521.com:35455/gaoma/cctv2.m3u8$订阅源
+CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8$订阅源-IPv6
+CCTV-1,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?$订阅源-IPv6
 CCTV-2,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$订阅源-IPv6
 CCTV-2,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3$订阅源-IPv6
 CCTV-2,http://[2409:8087:74d9:21::6]/270000001128/9900000502/index.m3u8$订阅源-IPv6
@@ -20,7 +19,7 @@ CCTV-2,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/
 CCTV-2,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?key=tvbox6_com$订阅源-IPv6
 CCTV-2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?$订阅源-IPv6
 CCTV-2,http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3$订阅源-IPv6
-CCTV-3,http://vip.396621173.xyz:35455/gaoma/cctv3.m3u8$订阅源
+CCTV-2,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$订阅源-IPv6
 CCTV-3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$订阅源-IPv6
 CCTV-3,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$订阅源-IPv6
 CCTV-3,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000003$订阅源-IPv6
@@ -30,8 +29,7 @@ CCTV-3,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.li
 CCTV-3,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000371/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8$订阅源-IPv6
 CCTV-3,http://[2409:8087:74f0:22::4]:6410/270000001111/1110000303/index.m3u8?channel-id=newtv&livemode=4&Contentid=1110000303$订阅源-IPv6
-CCTV-4,http://vip.396621173.xyz:35455/gaoma/cctv4.m3u8$订阅源
-CCTV-4,http://vip.396621173.xyz:35455/gaoma/cctv4k.m3u8$订阅源
+CCTV-3,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$订阅源-IPv6
 CCTV-4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8$订阅源-IPv6
 CCTV-4,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3$订阅源-IPv6
 CCTV-4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226428/index.m3u8$订阅源-IPv6
@@ -40,7 +38,8 @@ CCTV-4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8$订�
 CCTV-4,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?$订阅源-IPv6
 CCTV-4,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000503/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000503$订阅源-IPv6
 CCTV-4,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/00000001000000060000000000000485/index.m3u8$订阅源-IPv6
-CCTV-5,http://home.kuaidi521.com:35455/gaoma/cctv5.m3u8$订阅源
+CCTV-4,http://[2409:8087:2001:20:2800:0:df6e:eb20]:80/PLTV/1/224/3221230948/1.m3u8$订阅源-IPv6
+CCTV-4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?$订阅源-IPv6
 CCTV-5,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3$订阅源-IPv6
 CCTV-5,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010145/$订阅源-IPv6
 CCTV-5,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000360/index.m3u8?IASHttpSessionId=$订阅源-IPv6
@@ -50,6 +49,7 @@ CCTV-5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/index
 CCTV-5,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000004794/1.m3u8$订阅源-IPv6
 CCTV-5,http://[2409:8087:1a0b:df::4019]/ottrrs.hl.chinamobile.com/PLTV/1/224/3221226469/index.m3u8$订阅源-IPv6
 CCTV-5,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000005/index.m3u8$订阅源-IPv6
+CCTV-5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$订阅源-IPv6
 CCTV-6,https://cdn.jsdelivr.net/gh/sun520999/m3u/Video/%E9%81%87%E8%A7%81%E4%BD%A0%E6%98%AF%E6%9C%80%E5%B9%B8%E8%BF%90%E7%9A%84%E4%BA%8B.mp4$订阅源
 CCTV-6,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221227505/index.m3u8$订阅源-IPv6
 CCTV-6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8$订阅源-IPv6
@@ -60,7 +60,7 @@ CCTV-6,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8$订�
 CCTV-6,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000006$订阅源-IPv6
 CCTV-6,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000361/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8$订阅源-IPv6
-CCTV-7,http://vip.396621173.xyz:35455/gaoma/cctv7.m3u8$订阅源
+CCTV-7,http://b.zgjok.com:35455/gaoma/cctv7.m3u8$订阅源
 CCTV-7,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?IAS$订阅源-IPv6
 CCTV-7,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010215/$订阅源-IPv6
 CCTV-7,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/1.m3u8$订阅源-IPv6
@@ -81,8 +81,6 @@ CCTV-8,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/$订�
 CCTV-8,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000376/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8$订阅源-IPv6
 CCTV-9,http://124.243.178.131:35455/gaoma/cctv9.m3u8$订阅源
-CCTV-9,http://vip.396621173.xyz:35455/gaoma/cctv9.m3u8$订阅源
-CCTV-9,http://home.kuaidi521.com:35455/gaoma/cctv9.m3u8$订阅源
 CCTV-9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8$订阅源-IPv6
 CCTV-9,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014583/$订阅源-IPv6
 CCTV-9,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000505$订阅源-IPv6
@@ -90,8 +88,8 @@ CCTV-9,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/index
 CCTV-9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8$订阅源-IPv6
 CCTV-9,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010217/$订阅源-IPv6
 CCTV-9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA$订阅源-IPv6
-CCTV-10,http://vip.396621173.xyz:35455/gaoma/cctv10.m3u8$订阅源
-CCTV-10,http://home.kuaidi521.com:35455/gaoma/cctv10.m3u8$订阅源
+CCTV-9,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8$订阅源-IPv6
+CCTV-9,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8$订阅源-IPv6
 CCTV-10,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000321/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226473/index.m3u8$订阅源-IPv6
 CCTV-10,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000506$订阅源-IPv6
@@ -100,8 +98,8 @@ CCTV-10,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-10,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8$订阅源-IPv6
 CCTV-10,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3$订阅源-IPv6
 CCTV-10,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000506/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000156$订阅源-IPv6
-CCTV-11,http://vip.396621173.xyz:35455/gaoma/cctv11.m3u8$订阅源
-CCTV-11,http://home.kuaidi521.com:35455/gaoma/cctv11.m3u8$订阅源
+CCTV-10,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8$订阅源-IPv6
+CCTV-10,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226473/index.m3u8$订阅源-IPv6
 CCTV-11,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8?$订阅源-IPv6
 CCTV-11,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8$订阅源-IPv6
 CCTV-11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512$订阅源-IPv6
@@ -110,8 +108,8 @@ CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-11,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000344/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4$订阅源-IPv6
 CCTV-11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$订阅源-IPv6
-CCTV-12,http://vip.396621173.xyz:35455/gaoma/cctv12.m3u8$订阅源
-CCTV-12,http://home.kuaidi521.com:35455/gaoma/cctv12.m3u8$订阅源
+CCTV-11,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?$订阅源-IPv6
+CCTV-11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8$订阅源-IPv6
 CCTV-12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU$订阅源-IPv6
 CCTV-12,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000032494/1.m3u8$订阅源-IPv6
 CCTV-12,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010205/$订阅源-IPv6
@@ -120,8 +118,8 @@ CCTV-12,http://[2409:8087:74F1:0021::0008]:80/270000001322/699001580411111000000
 CCTV-12,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8$订阅源-IPv6
 CCTV-12,http://[2409:8087:74F1:0021::0008]/270000001322/69900158041111100000002147/index.m3u8$订阅源-IPv6
 CCTV-12,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$订阅源-IPv6
-CCTV-13,http://vip.396621173.xyz:35455/gaoma/cctv13.m3u8$订阅源
-CCTV-13,http://home.kuaidi521.com:35455/gaoma/cctv13.m3u8$订阅源
+CCTV-12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226568/index.m3u8$订阅源-IPv6
+CCTV-12,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8$订阅源-IPv6
 CCTV-13,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS$订阅源-IPv6
 CCTV-13,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/1.m3u8$订阅源-IPv6
 CCTV-13,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031108/$订阅源-IPv6
@@ -130,7 +128,8 @@ CCTV-13,http://[2409:8087:1a0a:df::402d]:80/wh7f454c46tw1865416231_2120705273/ot
 CCTV-13,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000510$订阅源-IPv6
 CCTV-13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8$订阅源-IPv6
 CCTV-13,http://[2409:8087:74d9:21::9]:80/270000001128/index.m3u8?cmcc_cid=9900000510$订阅源-IPv6
-CCTV-14,http://home.kuaidi521.com:35455/gaoma/cctv14.m3u8$订阅源
+CCTV-13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8$订阅源-IPv6
+CCTV-13,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226438/index.m3u8$订阅源-IPv6
 CCTV-14,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS$订阅源-IPv6
 CCTV-14,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000511/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000511$订阅源-IPv6
 CCTV-14,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8$订阅源-IPv6
@@ -140,8 +139,9 @@ CCTV-14,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/inde
 CCTV-14,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000323/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-14,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002148/index.m3u8$订阅源-IPv6
 CCTV-14,http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010207/$订阅源-IPv6
+CCTV-14,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000378/index.m3u8?IAS$订阅源-IPv6
 CCTV-15,http://124.243.178.131:35455/gaoma/cctv15.m3u8$订阅源
-CCTV-15,http://vip.396621173.xyz:35455/gaoma/cctv15.m3u8$订阅源
+CCTV-15,http://117.14.55.26:35455/gaoma/cctv15.m3u8$订阅源
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031109/$订阅源-IPv6
 CCTV-15,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000346/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000512$订阅源-IPv6
@@ -150,8 +150,6 @@ CCTV-15,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-15,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?IAS$订阅源-IPv6
 CCTV-15,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8?$订阅源-IPv6
 CCTV-15,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000512/index.m3u8$订阅源-IPv6
-CCTV-16,http://vip.396621173.xyz:35455/gaoma/cctv16.m3u8$订阅源
-CCTV-16,http://home.kuaidi521.com:35455/gaoma/cctv16.m3u8$订阅源
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000016$订阅源-IPv6
 CCTV-16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$订阅源-IPv6
 CCTV-16,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000016/index.m3u8$订阅源-IPv6
@@ -160,9 +158,8 @@ CCTV-16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/8888888
 CCTV-16,http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010142/$订阅源-IPv6
 CCTV-16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源-IPv6
 CCTV-16,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$订阅源-IPv6
-CCTV-17,http://vip.396621173.xyz:35455/gaoma/cctv17.m3u8$订阅源
-CCTV-17,http://nas.suntao.online:35455/gaoma/cctv17.m3u8$订阅源
-CCTV-17,http://home.kuaidi521.com:35455/gaoma/cctv17.m3u8$订阅源
+CCTV-16,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233002/$订阅源-IPv6
+CCTV-16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8$订阅源-IPv6
 CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8$订阅源-IPv6
 CCTV-17,http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8$订阅源-IPv6
 CCTV-17,http://[2409:8087:1a0a:df::4031]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$订阅源-IPv6
@@ -170,8 +167,9 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 CCTV-17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$订阅源-IPv6
 CCTV-17,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/index.m3u8$订阅源-IPv6
 CCTV-17,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS$订阅源-IPv6
-CCTV-5+,http://vip.396621173.xyz:35455/gaoma/cctv5p.m3u8$订阅源
-CCTV-5+,http://home.kuaidi521.com:35455/gaoma/cctv5p.m3u8$订阅源
+CCTV-17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/1.m3u8$订阅源-IPv6
+CCTV-17,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=$订阅源-IPv6
+CCTV-17,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000268004/$订阅源-IPv6
 CCTV-5+,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3$订阅源-IPv6
 CCTV-5+,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$订阅源-IPv6
 CCTV-5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8$订阅源-IPv6
@@ -180,6 +178,8 @@ CCTV-5+,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000020505/1.m
 CCTV-5+,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS$订阅源-IPv6
 CCTV-5+,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$订阅源-IPv6
 CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$订阅源-IPv6
+CCTV-5+,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$订阅源-IPv6
+CCTV-5+,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000507$订阅源-IPv6
 
 卫视频道,#genre#
 广东卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225701/index.m3u8$订阅源-IPv6
@@ -193,6 +193,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 广东卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8$订阅源-IPv6
 广东卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000014176/1.m3u8$订阅源-IPv6
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8$订阅源
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$订阅源
 浙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225703/2/index.m3u8$订阅源-IPv6
 浙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8$订阅源-IPv6
@@ -201,7 +202,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/ott.mobaibox.com/PLTV/4/224/3221227491/index.m3u8$订阅源-IPv6
 浙江卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 浙江卫视,http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1549378093_1832251100/ott.mobaibox.com/PLTV/3/224/3221227215/index.m3u8?icpid=3&RTS=1674385959&from=40&popid=40&hms_devid=2036&prioritypopid=40&vqe=3$订阅源-IPv6
-浙江卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8$订阅源-IPv6
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8$订阅源
 湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 湖南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226307/index.m3u8$订阅源-IPv6
@@ -212,6 +212,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010058/index.m3u8$订阅源-IPv6
 湖南卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009115/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=3$订阅源-IPv6
 湖南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225745/2/index.m3u8$订阅源-IPv6
+北京卫视,http://111.160.17.2:59901/tsfile/live/0001_28.m3u8$订阅源
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226450/index.m3u8$订阅源-IPv6
 北京卫视,http://[2409:8087:1a0a:df::4010]:80/wh7f454c46tw3521118935_826740184/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?icpid=88888888&RTS=1713970350&from=4&hms_devid=771&online=1713970350&vqe=3$订阅源-IPv6
 北京卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226161/index.m3u8$订阅源-IPv6
@@ -221,7 +222,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 北京卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8?$订阅源-IPv6
 北京卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 北京卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226450/index.m3u8$订阅源-IPv6
-北京卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000516/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000410$订阅源-IPv6
 湖北卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002204/index.m3u8$订阅源-IPv6
 湖北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8$订阅源-IPv6
 湖北卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225699/2/index.m3u8$订阅源-IPv6
@@ -233,6 +233,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 湖北卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000001000010355/index.m3u8?channel-id=bestzb&Contentid=1000000001000010355&livemode=1&stbId=3$订阅源-IPv6
 湖北卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$订阅源
+黑龙江卫视,http://111.160.17.2:59901/tsfile/live/0001_36.m3u8$订阅源
 黑龙江卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 黑龙江卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 黑龙江卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265029/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265029&livemode=1&stbId=3$订阅源-IPv6
@@ -241,7 +242,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226327/2.m3u8$订阅源-IPv6
 黑龙江卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226421/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
 黑龙江卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225690/2/index.m3u8$订阅源-IPv6
-黑龙江卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000521/index.m3u8$订阅源-IPv6
 安徽卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/index.m3u8$订阅源-IPv6
 安徽卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000514$订阅源-IPv6
 安徽卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225691/2/index.m3u8$订阅源-IPv6
@@ -252,6 +252,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 安徽卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000514/index.m3u8$订阅源-IPv6
 安徽卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002200/index.m3u8$订阅源-IPv6
 安徽卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000514/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000121$订阅源-IPv6
+重庆卫视,http://111.160.17.2:59901/tsfile/live/0001_31.m3u8$订阅源
 重庆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb09]/wh7f454c46tw2787424866_142914197/ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8?icpid=3&RTS=1669701388&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3$订阅源-IPv6
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/1.m3u8?$订阅源-IPv6
 重庆卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000005000265017/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265017&livemode=1&stbId=3$订阅源-IPv6
@@ -261,7 +262,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226409/index.m3u8$订阅源-IPv6
 重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8$订阅源-IPv6
 重庆卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010053/index.m3u8$订阅源-IPv6
-重庆卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225618/2.m3u8$订阅源-IPv6
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
 东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8?$订阅源-IPv6
@@ -322,6 +322,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源-IPv6
 海南卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225855/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 海南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8$订阅源-IPv6
+河北卫视,http://111.160.17.2:59901/tsfile/live/0001_39.m3u8$订阅源
 河北卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226442/index.m3u8$订阅源-IPv6
 河北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226406/2.m3u8$订阅源-IPv6
 河北卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
@@ -331,7 +332,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 河北卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226406/index.m3u8$订阅源-IPv6
 河北卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000057/index.m3u8$订阅源-IPv6
 河北卫视,http://[2409:8087:1a0a:df::4039]:80/wh7f454c46tw3680775025_-27616430/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8?icpid=88888888&RTS=1713970509&from=4&hms_devid=1212&online=1713970509&vqe=3$订阅源-IPv6
-河北卫视,http://[2409:8087:1a0a:df::4039]:80/wh7f454c46tw3680775025_-27616430/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8$订阅源-IPv6
+河南卫视,http://111.160.17.2:59901/tsfile/live/0001_47.m3u8$订阅源
 河南卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8$订阅源-IPv6
 河南卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8$订阅源-IPv6
 河南卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002221/index.m3u8$订阅源-IPv6
@@ -341,8 +342,8 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 河南卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226614/index.m3u8$订阅源-IPv6
 河南卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000027/index.m3u8?$订阅源-IPv6
 河南卫视,http://[2409:8087:1e03:21::11]:6610/cms001/ch00000090990000001222/index.m3u8?$订阅源-IPv6
-河南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226320/index.m3u8$订阅源-IPv6
 吉林卫视,https://pulltv1.wanfudaluye.com/live/tv1.m3u8$订阅源
+吉林卫视,http://111.160.17.2:59901/tsfile/live/0001_37.m3u8$订阅源
 吉林卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000030/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000008$订阅源-IPv6
 吉林卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010075/1.m3u8$订阅源-IPv6
 吉林卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002224/index.m3u8$订阅源-IPv6
@@ -351,7 +352,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 吉林卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8$订阅源-IPv6
 吉林卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8$订阅源-IPv6
 吉林卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8$订阅源-IPv6
-吉林卫视,http://[2409:8087:74d9:21::6]/270000001128/9900000030/index.m3u8$订阅源-IPv6
 江苏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010059/1.m3u8?$订阅源-IPv6
 江苏卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226310/index.m3u8$订阅源-IPv6
 江苏卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/6000000001000014861/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3$订阅源-IPv6
@@ -362,6 +362,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 江苏卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
 江苏卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010225/1.m3u8$订阅源-IPv6
 江苏卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8$订阅源-IPv6
+江西卫视,http://111.160.17.2:59901/tsfile/live/0001_43.m3u8$订阅源
 江西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8$订阅源-IPv6
 江西卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8$订阅源-IPv6
 江西卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8$订阅源-IPv6
@@ -371,7 +372,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 江西卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226344/index.m3u8$订阅源-IPv6
 江西卫视,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3$订阅源-IPv6
 江西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000525/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000716$订阅源-IPv6
-江西卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000525/index.m3u8?$订阅源-IPv6
+辽宁卫视,http://111.160.17.2:59901/tsfile/live/0001_41.m3u8$订阅源
 辽宁卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 辽宁卫视,http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3$订阅源-IPv6
 辽宁卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001035/index.m3u8?love=freedom#http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw513997223_-264209037/ott.mobaibox.com/PLTV/3/224/3221227380/index.m3u8?icpid=3&RTS=1674380629&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3#http://[2409:8087:2001:20:2800:0:df6e:eb16]/wh7f454c46tw3102310989_-1844874138/ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8?icpid=3&RTS=1668597896&from=40&popid=40&hms_devid=2114&prioritypopid=40&vqe=3#https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000$订阅源-IPv6
@@ -381,7 +382,6 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 辽宁卫视,http://[2409:8087:74f0:22::7]:6410/270000001128/9900000526/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000526$订阅源-IPv6
 辽宁卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226546/index.m3u8$订阅源-IPv6
 辽宁卫视,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225696/2/index.m3u8$订阅源-IPv6
-辽宁卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 内蒙古卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225664/index.m3u8$订阅源-IPv6
 内蒙古卫视,http://[2409:8087:74d9:21::6]/270000001322/69900158041111100000002237/index.m3u8$订阅源-IPv6
 内蒙古卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8$订阅源-IPv6
@@ -442,6 +442,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 陕西卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226444/index.m3u8$订阅源-IPv6
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8$订阅源-IPv6
 陕西卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000026/index.m3u8$订阅源-IPv6
+四川卫视,http://111.160.17.2:59901/tsfile/live/0001_34.m3u8$订阅源
 四川卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8?$订阅源-IPv6
 四川卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8$订阅源-IPv6
 四川卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8$订阅源-IPv6
@@ -451,7 +452,7 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 四川卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$订阅源-IPv6
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8$订阅源-IPv6
 四川卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId=$订阅源-IPv6
-四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8$订阅源-IPv6
+深圳卫视,http://111.160.17.2:59901/tsfile/live/0001_49.m3u8$订阅源
 深圳卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009227/1.m3u8$订阅源-IPv6
 深圳卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225848/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 深圳卫视,http://[2409:8087:1a0a:df::4013]:80/wh7f454c46tw2667830568_725069943/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8?icpid=88888888&RTS=1713969496&from=4&hms_devid=773&online=1713969496&vqe=3$订阅源-IPv6
@@ -461,17 +462,16 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 深圳卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226313/index.m3u8$订阅源-IPv6
 深圳卫视,http://[2409:8087:74f0:22::5]:6410/270000001128/9900000529/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000529$订阅源-IPv6
 深圳卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001030/index.m3u8?$订阅源-IPv6
-深圳卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227242/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
+三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8$订阅源
+三沙卫视,http://111.160.17.2:59901/tsfile/live/0001_45.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9531be&tk=822270345d4c$订阅源
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9983&tk=e503191f8e20$订阅源
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=958c9a&tk=822270345d4c$订阅源
+三沙卫视,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0161&tk=f6cc1e0a0e1a$订阅源
 三沙卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227172/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178$订阅源-IPv6
 三沙卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8$订阅源-IPv6
 三沙卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$订阅源-IPv6
 三沙卫视,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=$订阅源-IPv6
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS$订阅源-IPv6
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?fmmv6$订阅源-IPv6
-三沙卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8$订阅源-IPv6
-三沙卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?$订阅源-IPv6
-三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8$订阅源-IPv6
-三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 天津卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226459/index.m3u8$订阅源-IPv6
 天津卫视,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000530/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000329$订阅源-IPv6
 天津卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8$订阅源-IPv6
@@ -514,25 +514,26 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 云南卫视,http://[2409:8087:1a09:df::401d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8?icpid=88888888&from=5&hms_devid=980&online=1720054946&vqe=3$订阅源-IPv6
 
 电影电视,#genre#
-CHC家庭影院,http://qjrhc.jydjd.top:2911/udp/224.1.100.149:11111$订阅源
-CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002$订阅源
+CHC家庭影院,https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e5b12471106642e4d0f341956e45e2f60dbb2179c3b5b6f05c2e8242e24d254815578255456ce991c2d337b226ce49c025efe16f2d4715157e642b7447f0bf06$订阅源
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a03072&tk=822270345d4c$订阅源
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3027&tk=23a9aca1f79f$订阅源
+CHC家庭影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=bf7e77&tk=822270345d4c$订阅源
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源-IPv6
 CHC家庭影院,http://[2001:250:5800:1005::155]:80/liverespath/449d51febadb152094085d373b9af94a6ac5f1dd/index.m3u8$订阅源-IPv6
 CHC家庭影院,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC家庭影院,http://[2409:8087:7008:20::8]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$订阅源-IPv6
 CHC家庭影院,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8$订阅源-IPv6
-CHC家庭影院,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/index.m3u8$订阅源-IPv6
-CHC动作电影,http://qjrhc.jydjd.top:2911/udp/224.1.100.132:11111$订阅源
+CHC动作电影,https://www.freetv.top/migu/644368714.m3u8?migutoken=2e48d18419793654f347e8ca29e0028ce9f3eaaa7a108b006304178b8f790f34908f8a09bbb8f4b8b8abcf36e2341f1043dde8719cf4927fcd0dcde4667f8b91e68e820314791d9b70452862c9$订阅源
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4654&tk=23a9aca1f79f$订阅源
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7d2a91&tk=822270345d4c$订阅源
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=13a3a6&tk=822270345d4c$订阅源
+CHC动作电影,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=d76d00&tk=822270345d4c$订阅源
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2$订阅源-IPv6
 CHC动作电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6
 CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6
 CHC动作电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$订阅源-IPv6
 CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/8103864434730665389/1.m3u8$订阅源-IPv6
-CHC动作电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000106/index.m3u8$订阅源-IPv6
-CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8$订阅源-IPv6
-CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$订阅源-IPv6
-CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8$订阅源-IPv6
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000004000024282/index.m3u8?channel-id=bestzb&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源-IPv6
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源-IPv6
 NewTV惊悚悬疑,http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000024282/1.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=3$订阅源-IPv6
